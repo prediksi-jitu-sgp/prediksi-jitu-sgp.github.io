@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://prediksi-jitu-sgp.github.io/sitemap.xml
